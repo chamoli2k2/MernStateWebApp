@@ -129,9 +129,9 @@ npm run dev
 
 **Server & Background Service:** Node, Express, Firebase
 
-**Database** MongoDB
+**Database:** MongoDB
 
-**Authentication and Security** JWT web token
+**Authentication and Security:** JWT web token
 
 ---
 ## Images
